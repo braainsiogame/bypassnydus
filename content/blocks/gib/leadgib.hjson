@@ -1,0 +1,22 @@
+type: GenericSmelter
+name:  lead
+description: the name explained
+size: 2
+hasPower: false
+hasLiquids: false
+hasItems: true
+craftTime: 0
+updateEffect: smeltsmoke
+consumes: {
+  items: {
+    items: [
+      copper/1
+    ]
+}
+requirements: [
+  copper/1
+]
+category: crafting
+idleSound: respawning
+idleSoundVolume: 0.5
+outputItem: lead/500
