@@ -13,9 +13,6 @@ consumes: {
       copper/1
     ]
 }
-requirements: [
-  copper/1
-]
 category: crafting
 idleSound: respawning
 idleSoundVolume: 0.5
