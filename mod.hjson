@@ -4,3 +4,4 @@ author: "iogame"
 description: "Unlock the silicon smelter for you."
 version: "1.0"
 minGameVersion: "103"
+hidden: true
