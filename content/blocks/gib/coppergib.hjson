@@ -1,5 +1,5 @@
 type: GenericSmelter
-name: copper and lead
+name: copper
 description: the name explained
 size: 2
 hasPower: false
