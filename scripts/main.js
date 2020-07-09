@@ -1,1 +1,1 @@
-print('Blocks.siliconSmelter.alwaysUnlocked = true')
+print(Blocks.siliconSmelter.alwaysUnlocked = true)
